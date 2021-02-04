@@ -10491,3 +10491,13 @@ section#contact form#contactForm :-ms-input-placeholder {
   flex: 0 0 100%;
   max-width: 0 0 100%;
 }
+
+
+
+
+
+img {
+width:100%;
+max-width: 100%;
+height: auto;
+}
